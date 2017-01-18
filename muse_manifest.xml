@@ -1,0 +1,96 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.dbei.com" resolutions="1x" timestamp="1484749870131">
+  <folder name="css">
+    <file name="site_global.css" crc="4023674059"/>
+    <file name="master_a-master.css" crc="244619930" ref="contact-us:events:index:team:about:resources"/>
+    <file name="contact-us.css" crc="154364013" ref="contact-us"/>
+    <file name="events.css" crc="349331654" ref="events"/>
+    <file name="iefonts_events.css" crc="3908697867" ref="events"/>
+    <file name="index.css" crc="3961484487" ref="index"/>
+    <file name="iefonts_index.css" crc="3783058793" ref="index"/>
+    <file name="team.css" crc="3972913436" ref="team"/>
+    <file name="iefonts_team.css" crc="3869158154" ref="team"/>
+    <file name="about.css" crc="55522820" ref="about"/>
+    <file name="iefonts_about.css" crc="4166837152" ref="about"/>
+    <file name="resources.css" crc="3983093930" ref="resources"/>
+    <file name="iefonts_resources.css" crc="4155865058" ref="resources"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fontawesome-webfont.woff" crc="462672289"/>
+    <file name="fontawesome-webfont.eot" crc="415170694"/>
+    <file name="fontawesome-webfont.svg" crc="3771442179"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:about:events:resources:team:contact-us"/>
+    <file name="museutils.js" crc="4155826306" ref="index:about:events:resources:team:contact-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:events:resources:team:contact-us"/>
+    <file name="museconfig.js" crc="483509463" ref="index:about:events:resources:team:contact-us"/>
+    <file name="pie.js" crc="3827607177" ref="index:about:events:resources:team:contact-us"/>
+    <file name="jquery.musemenu.js" crc="3765356681" ref="index:about:events:resources:team:contact-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index:about:events:resources:team"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index:about:events:resources:team:contact-us"/>
+    <file name="webpro.js" crc="4078243563" ref="index:contact-us"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="index"/>
+    <file name="touchswipe.js" crc="157639107" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3802586038" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:events:resources:team:contact-us"/>
+    <file name="require.js" crc="228336483" ref="index:about:events:resources:team:contact-us"/>
+    <file name="form_check.php" crc="474517188" ref="contact-us"/>
+    <file name="form_throttle.php" crc="495784356" ref="contact-us"/>
+    <file name="form_process.php" crc="4149049960" ref="contact-us"/>
+    <file name="form-u972.php" crc="3914851593" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4105234685" ref="index"/>
+    <file name="dbei logo white-crop-u3471.png" crc="4036255197" ref="index:about:events:resources:team:contact-us"/>
+    <file name="background source autodesk network rail and jacobs.jpg" crc="193523696" ref="index"/>
+    <file name="client1.png" crc="4179782190" seo="true" ref="index"/>
+    <file name="ar2.png" crc="4021655314" seo="true" ref="index"/>
+    <file name="ar.png" crc="4042293247" seo="true" ref="index"/>
+    <file name="eng.png" crc="4280293168" seo="true" ref="index"/>
+    <file name="svy.png" crc="4076305090" seo="true" ref="index"/>
+    <file name="bg-wallpaper-bim-today-01.jpg" crc="4200720066" ref="index"/>
+    <file name="rm.jpg" crc="302163482" ref="index"/>
+    <file name="conference.jpg" crc="4274469350" ref="index"/>
+    <file name="construction2.png" crc="29108773" ref="index"/>
+    <file name="dbei red-crop-u3497.png" crc="3914051388" ref="index"/>
+    <file name="bilt2.jpg" crc="4281539232" ref="index"/>
+    <file name="dbei logo white-crop-u3481.png" crc="4036255197" ref="index:about:events:resources:team:contact-us"/>
+    <file name="about_header.jpg" crc="3767645542" ref="about:events:resources:team"/>
+    <file name="event.jpg" crc="286480389" ref="about"/>
+    <file name="new_florida_window_films.png" crc="3951101748" seo="true" ref="events"/>
+    <file name="bim-management.jpg" crc="146455952" ref="events"/>
+    <file name="vignesh.jpg" crc="375235010" ref="events"/>
+    <file name="register-button-png-image.png" crc="4113290724" seo="true" ref="events"/>
+    <file name="bo.jpg" crc="224014959" ref="events"/>
+    <file name="autodesk.jpg" crc="95601930" seo="true" ref="events"/>
+    <file name="1.jpg" crc="4024370516" ref="events"/>
+    <file name="dbei red-crop-u3527.png" crc="3914051388" ref="team"/>
+    <file name="6.jpg" crc="3758686747" ref="team"/>
+    <file name="pl.jpg" crc="151618233" ref="team"/>
+    <file name="pl-u2436-r-fr.png" crc="449075483" ref="team"/>
+    <file name="5.jpg" crc="467131212" ref="team"/>
+    <file name="richard.jpg" crc="479266976" ref="team"/>
+    <file name="richard-u2437-r-fr.png" crc="4244436084" ref="team"/>
+    <file name="4.jpg" crc="4185785046" ref="team"/>
+    <file name="wb.jpg" crc="3905737713" ref="team"/>
+    <file name="wb-u2435-r-fr.png" crc="4254280076" ref="team"/>
+    <file name="12.jpg" crc="371641195" ref="team"/>
+    <file name="rexter.jpg" crc="435071419" ref="team"/>
+    <file name="rexter-u1540-r-fr.png" crc="3936146612" ref="team"/>
+    <file name="user.png" crc="157352954" ref="contact-us"/>
+    <file name="email.png" crc="3760545500" ref="contact-us"/>
+    <file name="message.png" crc="3987699486" ref="contact-us"/>
+    <file name="phone.png" crc="3861642874" ref="contact-us"/>
+    <file name="u975-17.png" crc="347462160" ref="contact-us"/>
+    <file name="u975-17-r.png" crc="276838153" ref="contact-us"/>
+    <file name="u975-17-m.png" crc="276838153" ref="contact-us"/>
+    <file name="u975-17-fs.png" crc="259264420" ref="contact-us"/>
+  </folder>
+  <file name="index.html" crc="84183350" seo="true" mt="1484749234939" redirect="true"/>
+  <file name="about.html" crc="3821801137" seo="true" mt="1484749234939" redirect="true"/>
+  <file name="events.html" crc="3919710969" seo="true" mt="1484749234939" redirect="true"/>
+  <file name="resources.html" crc="4051934273" seo="true" mt="1484749234939" redirect="true"/>
+  <file name="team.html" crc="4004235931" seo="true" mt="1484749234939" redirect="true"/>
+  <file name="contact-us.html" crc="168467896" seo="true" mt="1484749234939" redirect="true"/>
+</manifest>
