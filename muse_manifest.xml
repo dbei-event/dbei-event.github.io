@@ -1,17 +1,17 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.dbei.com" resolutions="1x" timestamp="1484749870131">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.dbei.com" resolutions="1x" timestamp="1493463121704">
   <folder name="css">
     <file name="site_global.css" crc="4023674059"/>
-    <file name="master_a-master.css" crc="244619930" ref="contact-us:events:index:team:about:resources"/>
-    <file name="contact-us.css" crc="154364013" ref="contact-us"/>
-    <file name="events.css" crc="349331654" ref="events"/>
+    <file name="master_a-master.css" crc="63699580" ref="contact-us:events:index:team:about:resources"/>
+    <file name="contact-us.css" crc="455746149" ref="contact-us"/>
+    <file name="events.css" crc="4168333989" ref="events"/>
     <file name="iefonts_events.css" crc="3908697867" ref="events"/>
-    <file name="index.css" crc="3961484487" ref="index"/>
+    <file name="index.css" crc="4250891335" ref="index"/>
     <file name="iefonts_index.css" crc="3783058793" ref="index"/>
-    <file name="team.css" crc="3972913436" ref="team"/>
+    <file name="team.css" crc="3982413004" ref="team"/>
     <file name="iefonts_team.css" crc="3869158154" ref="team"/>
-    <file name="about.css" crc="55522820" ref="about"/>
+    <file name="about.css" crc="4004484292" ref="about"/>
     <file name="iefonts_about.css" crc="4166837152" ref="about"/>
-    <file name="resources.css" crc="3983093930" ref="resources"/>
+    <file name="resources.css" crc="123638968" ref="resources"/>
     <file name="iefonts_resources.css" crc="4155865058" ref="resources"/>
   </folder>
   <folder name="fonts">
@@ -87,10 +87,10 @@
     <file name="u975-17-m.png" crc="276838153" ref="contact-us"/>
     <file name="u975-17-fs.png" crc="259264420" ref="contact-us"/>
   </folder>
-  <file name="index.html" crc="84183350" seo="true" mt="1484749234939" redirect="true"/>
-  <file name="about.html" crc="3821801137" seo="true" mt="1484749234939" redirect="true"/>
-  <file name="events.html" crc="3919710969" seo="true" mt="1484749234939" redirect="true"/>
-  <file name="resources.html" crc="4051934273" seo="true" mt="1484749234939" redirect="true"/>
-  <file name="team.html" crc="4004235931" seo="true" mt="1484749234939" redirect="true"/>
-  <file name="contact-us.html" crc="168467896" seo="true" mt="1484749234939" redirect="true"/>
+  <file name="index.html" crc="201888379" seo="true" mt="1493462826444" redirect="true"/>
+  <file name="about.html" crc="518420558" seo="true" mt="1493462826444" redirect="true"/>
+  <file name="events.html" crc="212737937" seo="true" mt="1493462826444" redirect="true"/>
+  <file name="resources.html" crc="439593979" seo="true" mt="1493462826444" redirect="true"/>
+  <file name="team.html" crc="283665095" seo="true" mt="1493462826444" redirect="true"/>
+  <file name="contact-us.html" crc="395737530" seo="true" mt="1493462826444" redirect="true"/>
 </manifest>
