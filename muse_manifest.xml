@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.dbei.com" resolutions="1x" timestamp="1493463121704">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.dbei.com" resolutions="1x" timestamp="1493571469080">
   <folder name="css">
-    <file name="site_global.css" crc="4023674059"/>
+    <file name="site_global.css" crc="184013585"/>
     <file name="master_a-master.css" crc="63699580" ref="contact-us:events:index:team:about:resources"/>
     <file name="contact-us.css" crc="455746149" ref="contact-us"/>
-    <file name="events.css" crc="4168333989" ref="events"/>
-    <file name="iefonts_events.css" crc="3908697867" ref="events"/>
-    <file name="index.css" crc="4250891335" ref="index"/>
-    <file name="iefonts_index.css" crc="3783058793" ref="index"/>
-    <file name="team.css" crc="3982413004" ref="team"/>
-    <file name="iefonts_team.css" crc="3869158154" ref="team"/>
+    <file name="events.css" crc="3924335190" ref="events"/>
+    <file name="iefonts_events.css" crc="3908773853" ref="events"/>
+    <file name="index.css" crc="45539036" ref="index"/>
+    <file name="iefonts_index.css" crc="4021590738" ref="index"/>
+    <file name="team.css" crc="302832423" ref="team"/>
+    <file name="iefonts_team.css" crc="4173661466" ref="team"/>
     <file name="about.css" crc="4004484292" ref="about"/>
     <file name="iefonts_about.css" crc="4166837152" ref="about"/>
     <file name="resources.css" crc="123638968" ref="resources"/>
@@ -60,9 +60,9 @@
     <file name="event.jpg" crc="286480389" ref="about"/>
     <file name="new_florida_window_films.png" crc="3951101748" seo="true" ref="events"/>
     <file name="bim-management.jpg" crc="146455952" ref="events"/>
-    <file name="vignesh.jpg" crc="375235010" ref="events"/>
+    <file name="vignesh.jpg" crc="3959573026" ref="events"/>
     <file name="register-button-png-image.png" crc="4113290724" seo="true" ref="events"/>
-    <file name="bo.jpg" crc="224014959" ref="events"/>
+    <file name="bo.jpg" crc="240473160" ref="events"/>
     <file name="autodesk.jpg" crc="95601930" seo="true" ref="events"/>
     <file name="1.jpg" crc="4024370516" ref="events"/>
     <file name="dbei red-crop-u3527.png" crc="3914051388" ref="team"/>
@@ -86,11 +86,15 @@
     <file name="u975-17-r.png" crc="276838153" ref="contact-us"/>
     <file name="u975-17-m.png" crc="276838153" ref="contact-us"/>
     <file name="u975-17-fs.png" crc="259264420" ref="contact-us"/>
+    <file name="dbei red-crop-u3717.png" crc="3914051388" ref="index"/>
+    <file name="dave willard.jpg" crc="536215522" ref="events"/>
+    <file name="alex nesbitt.jpg" crc="4134510210" ref="events"/>
+    <file name="downloads-icon.png" crc="4179194564" seo="true" ref="events"/>
   </folder>
-  <file name="index.html" crc="201888379" seo="true" mt="1493462826444" redirect="true"/>
-  <file name="about.html" crc="518420558" seo="true" mt="1493462826444" redirect="true"/>
-  <file name="events.html" crc="212737937" seo="true" mt="1493462826444" redirect="true"/>
-  <file name="resources.html" crc="439593979" seo="true" mt="1493462826444" redirect="true"/>
-  <file name="team.html" crc="283665095" seo="true" mt="1493462826444" redirect="true"/>
-  <file name="contact-us.html" crc="395737530" seo="true" mt="1493462826444" redirect="true"/>
+  <file name="index.html" crc="3876410408" seo="true" mt="1493570531937" redirect="true"/>
+  <file name="about.html" crc="4111347002" seo="true" mt="1493565519789" redirect="true"/>
+  <file name="events.html" crc="475340568" seo="true" mt="1493571108580" redirect="true"/>
+  <file name="resources.html" crc="3939529372" seo="true" mt="1493565519789" redirect="true"/>
+  <file name="team.html" crc="3768826407" seo="true" mt="1493566429745" redirect="true"/>
+  <file name="contact-us.html" crc="494833052" seo="true" mt="1493565519789" redirect="true"/>
 </manifest>
