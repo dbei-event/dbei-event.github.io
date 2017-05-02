@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.dbei-event.github.io" resolutions="1x" timestamp="1493730884060">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.dbei-event.github.io" resolutions="1x" timestamp="1493731717697">
   <folder name="css">
     <file name="site_global.css" crc="4023674059"/>
     <file name="master_a-master.css" crc="63699580" ref="contact-us:events:index:team:about:resources"/>
@@ -91,7 +91,7 @@
     <file name="alex nesbitt.jpg" crc="4134510210" ref="events"/>
     <file name="downloads-icon.png" crc="4179194564" seo="true" ref="events"/>
   </folder>
-  <file name="index.html" crc="124195217" seo="true" mt="1493730624501" redirect="true"/>
+  <file name="index.html" crc="11057109" seo="true" mt="1493731698476" redirect="true"/>
   <file name="about.html" crc="458716408" seo="true" mt="1493620018570" redirect="true"/>
   <file name="events.html" crc="354870329" seo="true" mt="1493730636330" redirect="true"/>
   <file name="resources.html" crc="3939529372" seo="true" mt="1493565519789" redirect="true"/>
