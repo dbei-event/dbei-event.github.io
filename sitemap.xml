@@ -1,92 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.dbei.com/index.html</loc>
+    <loc>http://www.dbei-event.github.io/index.html</loc>
+    <lastmod>2017-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.dbei-event.github.io/team.html</loc>
     <lastmod>2017-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.dbei.com/team.html</loc>
-    <lastmod>2017-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.dbei.com/contact-us.html</loc>
+    <loc>http://www.dbei-event.github.io/contact-us.html</loc>
     <lastmod>2017-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.dbei.com/resources.html</loc>
+    <loc>http://www.dbei-event.github.io/resources.html</loc>
     <lastmod>2017-04-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.dbei.com/events.html</loc>
+    <loc>http://www.dbei-event.github.io/events.html</loc>
+    <lastmod>2017-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.dbei-event.github.io/about.html</loc>
     <lastmod>2017-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.dbei.com/about.html</loc>
-    <lastmod>2017-04-30</lastmod>
+    <loc>http://www.dbei-event.github.io/images/svy.png</loc>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.dbei.com/images/svy.png</loc>
-    <lastmod>2017-05-01</lastmod>
+    <loc>http://www.dbei-event.github.io/images/new_florida_window_films.png</loc>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.dbei.com/images/new_florida_window_films.png</loc>
-    <lastmod>2017-05-01</lastmod>
+    <loc>http://www.dbei-event.github.io/images/downloads-icon.png</loc>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.dbei.com/images/downloads-icon.png</loc>
-    <lastmod>2017-05-01</lastmod>
+    <loc>http://www.dbei-event.github.io/images/ar2.png</loc>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.dbei.com/images/ar2.png</loc>
-    <lastmod>2017-05-01</lastmod>
+    <loc>http://www.dbei-event.github.io/images/eng.png</loc>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.dbei.com/images/eng.png</loc>
-    <lastmod>2017-05-01</lastmod>
+    <loc>http://www.dbei-event.github.io/images/ar.png</loc>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.dbei.com/images/ar.png</loc>
-    <lastmod>2017-05-01</lastmod>
+    <loc>http://www.dbei-event.github.io/images/register-button-png-image.png</loc>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.dbei.com/images/register-button-png-image.png</loc>
-    <lastmod>2017-05-01</lastmod>
+    <loc>http://www.dbei-event.github.io/images/client1.png</loc>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.dbei.com/images/client1.png</loc>
-    <lastmod>2017-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.dbei.com/images/autodesk.jpg</loc>
-    <lastmod>2017-05-01</lastmod>
+    <loc>http://www.dbei-event.github.io/images/autodesk.jpg</loc>
+    <lastmod>2017-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

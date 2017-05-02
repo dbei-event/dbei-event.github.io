@@ -1,15 +1,15 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.dbei.com" resolutions="1x" timestamp="1493617109064">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.dbei-event.github.io" resolutions="1x" timestamp="1493730884060">
   <folder name="css">
-    <file name="site_global.css" crc="184013585"/>
+    <file name="site_global.css" crc="4023674059"/>
     <file name="master_a-master.css" crc="63699580" ref="contact-us:events:index:team:about:resources"/>
     <file name="contact-us.css" crc="455746149" ref="contact-us"/>
-    <file name="events.css" crc="3920801010" ref="events"/>
-    <file name="iefonts_events.css" crc="3908773853" ref="events"/>
-    <file name="index.css" crc="45539036" ref="index"/>
+    <file name="events.css" crc="3928836039" ref="events"/>
+    <file name="iefonts_events.css" crc="4071398106" ref="events"/>
+    <file name="index.css" crc="3920523566" ref="index"/>
     <file name="iefonts_index.css" crc="4021590738" ref="index"/>
     <file name="team.css" crc="4275536660" ref="team"/>
     <file name="iefonts_team.css" crc="4173661466" ref="team"/>
-    <file name="about.css" crc="4004484292" ref="about"/>
+    <file name="about.css" crc="3971795756" ref="about"/>
     <file name="iefonts_about.css" crc="4166837152" ref="about"/>
     <file name="resources.css" crc="123638968" ref="resources"/>
     <file name="iefonts_resources.css" crc="4155865058" ref="resources"/>
@@ -41,7 +41,7 @@
     <file name="form-u972.php" crc="3914851593" ref="contact-us"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4105234685" ref="index:events"/>
+    <file name="favicon.ico" crc="4105234685" ref="index"/>
     <file name="dbei logo white-crop-u3471.png" crc="4036255197" ref="index:about:events:resources:team:contact-us"/>
     <file name="background source autodesk network rail and jacobs.jpg" crc="193523696" ref="index"/>
     <file name="client1.png" crc="4179782190" seo="true" ref="index"/>
@@ -91,9 +91,9 @@
     <file name="alex nesbitt.jpg" crc="4134510210" ref="events"/>
     <file name="downloads-icon.png" crc="4179194564" seo="true" ref="events"/>
   </folder>
-  <file name="index.html" crc="3876410408" seo="true" mt="1493570531937" redirect="true"/>
-  <file name="about.html" crc="4111347002" seo="true" mt="1493565519789" redirect="true"/>
-  <file name="events.html" crc="3899020771" seo="true" mt="1493617043020" redirect="true"/>
+  <file name="index.html" crc="124195217" seo="true" mt="1493730624501" redirect="true"/>
+  <file name="about.html" crc="458716408" seo="true" mt="1493620018570" redirect="true"/>
+  <file name="events.html" crc="354870329" seo="true" mt="1493730636330" redirect="true"/>
   <file name="resources.html" crc="3939529372" seo="true" mt="1493565519789" redirect="true"/>
   <file name="team.html" crc="4223888015" seo="true" mt="1493616488075" redirect="true"/>
   <file name="contact-us.html" crc="494833052" seo="true" mt="1493565519789" redirect="true"/>
