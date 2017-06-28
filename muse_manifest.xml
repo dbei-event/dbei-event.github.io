@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.dbei-event.github.io" resolutions="1x" timestamp="1493731717697">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.dbei-event.github.io" resolutions="1x" timestamp="1498661425187">
   <folder name="css">
-    <file name="site_global.css" crc="4023674059"/>
-    <file name="master_a-master.css" crc="63699580" ref="contact-us:events:index:team:about:resources"/>
+    <file name="site_global.css" crc="184013585"/>
+    <file name="master_a-master.css" crc="385150075" ref="contact-us:events:index:team:about:resources"/>
     <file name="contact-us.css" crc="455746149" ref="contact-us"/>
-    <file name="events.css" crc="3928836039" ref="events"/>
-    <file name="iefonts_events.css" crc="4071398106" ref="events"/>
-    <file name="index.css" crc="3920523566" ref="index"/>
-    <file name="iefonts_index.css" crc="4021590738" ref="index"/>
-    <file name="team.css" crc="4275536660" ref="team"/>
+    <file name="events.css" crc="3944350946" ref="events"/>
+    <file name="iefonts_events.css" crc="81348451" ref="events"/>
+    <file name="index.css" crc="3850497941" ref="index"/>
+    <file name="iefonts_index.css" crc="408350242" ref="index"/>
+    <file name="team.css" crc="471893998" ref="team"/>
     <file name="iefonts_team.css" crc="4173661466" ref="team"/>
     <file name="about.css" crc="3971795756" ref="about"/>
     <file name="iefonts_about.css" crc="4166837152" ref="about"/>
@@ -63,7 +63,6 @@
     <file name="vignesh.jpg" crc="3959573026" ref="events"/>
     <file name="register-button-png-image.png" crc="4113290724" seo="true" ref="events"/>
     <file name="bo.jpg" crc="240473160" ref="events"/>
-    <file name="autodesk.jpg" crc="95601930" seo="true" ref="events"/>
     <file name="1.jpg" crc="4024370516" ref="events"/>
     <file name="dbei red-crop-u3527.png" crc="3914051388" ref="team"/>
     <file name="6.jpg" crc="3758686747" ref="team"/>
@@ -76,7 +75,7 @@
     <file name="wb.jpg" crc="3905737713" ref="team"/>
     <file name="wb-u2435-r-fr.png" crc="4254280076" ref="team"/>
     <file name="12.jpg" crc="371641195" ref="team"/>
-    <file name="rexter.jpg" crc="435071419" ref="team"/>
+    <file name="rexter.jpg" crc="435071419" ref="events"/>
     <file name="rexter-u1540-r-fr.png" crc="3936146612" ref="team"/>
     <file name="user.png" crc="157352954" ref="contact-us"/>
     <file name="email.png" crc="3760545500" ref="contact-us"/>
@@ -87,14 +86,16 @@
     <file name="u975-17-m.png" crc="276838153" ref="contact-us"/>
     <file name="u975-17-fs.png" crc="259264420" ref="contact-us"/>
     <file name="dbei red-crop-u3717.png" crc="3914051388" ref="index"/>
-    <file name="dave willard.jpg" crc="536215522" ref="events"/>
-    <file name="alex nesbitt.jpg" crc="4134510210" ref="events"/>
+    <file name="dave willard.jpg" crc="435926306" ref="events"/>
+    <file name="alex nesbitt.jpg" crc="441288339" ref="events"/>
     <file name="downloads-icon.png" crc="4179194564" seo="true" ref="events"/>
+    <file name="ive_logosvg.png" crc="109540411" seo="true" ref="events"/>
+    <file name="rexter2.jpg" crc="435071419" ref="team"/>
   </folder>
-  <file name="index.html" crc="11057109" seo="true" mt="1493731698476" redirect="true"/>
+  <file name="index.html" crc="268915147" seo="true" mt="1498661325499" redirect="true"/>
   <file name="about.html" crc="458716408" seo="true" mt="1493620018570" redirect="true"/>
-  <file name="events.html" crc="354870329" seo="true" mt="1493730636330" redirect="true"/>
+  <file name="events.html" crc="474035125" seo="true" mt="1498661278706" redirect="true"/>
   <file name="resources.html" crc="3939529372" seo="true" mt="1493565519789" redirect="true"/>
-  <file name="team.html" crc="4223888015" seo="true" mt="1493616488075" redirect="true"/>
+  <file name="team.html" crc="4075332448" seo="true" mt="1498660559042" redirect="true"/>
   <file name="contact-us.html" crc="494833052" seo="true" mt="1493565519789" redirect="true"/>
 </manifest>
