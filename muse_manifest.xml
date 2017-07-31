@@ -1,12 +1,15 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.dbei-event.github.io" resolutions="1x" timestamp="1498661425187">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.dbei-event.github.io" resolutions="1x" timestamp="1501544021872">
+  <folder name="assets">
+    <file name="archicad-graphisoft.jpg" crc="383262247" seo="true" mt="1501543838000"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="184013585"/>
+    <file name="site_global.css" crc="4023674059"/>
     <file name="master_a-master.css" crc="385150075" ref="contact-us:events:index:team:about:resources"/>
     <file name="contact-us.css" crc="455746149" ref="contact-us"/>
-    <file name="events.css" crc="3944350946" ref="events"/>
-    <file name="iefonts_events.css" crc="81348451" ref="events"/>
-    <file name="index.css" crc="3850497941" ref="index"/>
-    <file name="iefonts_index.css" crc="408350242" ref="index"/>
+    <file name="events.css" crc="115546421" ref="events"/>
+    <file name="iefonts_events.css" crc="413114298" ref="events"/>
+    <file name="index.css" crc="3950407832" ref="index"/>
+    <file name="iefonts_index.css" crc="3882037320" ref="index"/>
     <file name="team.css" crc="471893998" ref="team"/>
     <file name="iefonts_team.css" crc="4173661466" ref="team"/>
     <file name="about.css" crc="3971795756" ref="about"/>
@@ -75,7 +78,7 @@
     <file name="wb.jpg" crc="3905737713" ref="team"/>
     <file name="wb-u2435-r-fr.png" crc="4254280076" ref="team"/>
     <file name="12.jpg" crc="371641195" ref="team"/>
-    <file name="rexter.jpg" crc="435071419" ref="events"/>
+    <file name="rexter.jpg" crc="3788807353" ref="events"/>
     <file name="rexter-u1540-r-fr.png" crc="3936146612" ref="team"/>
     <file name="user.png" crc="157352954" ref="contact-us"/>
     <file name="email.png" crc="3760545500" ref="contact-us"/>
@@ -89,12 +92,14 @@
     <file name="dave willard.jpg" crc="435926306" ref="events"/>
     <file name="alex nesbitt.jpg" crc="441288339" ref="events"/>
     <file name="downloads-icon.png" crc="4179194564" seo="true" ref="events"/>
-    <file name="ive_logosvg.png" crc="109540411" seo="true" ref="events"/>
     <file name="rexter2.jpg" crc="435071419" ref="team"/>
+    <file name="jorge.jpg" crc="348831351" ref="events"/>
+    <file name="behzad.jpg" crc="4294019217" ref="events"/>
+    <file name="archicad-graphisoft.jpg" crc="4179080486" seo="true" ref="events"/>
   </folder>
-  <file name="index.html" crc="268915147" seo="true" mt="1498661325499" redirect="true"/>
+  <file name="index.html" crc="228020838" seo="true" mt="1501542798138" redirect="true"/>
   <file name="about.html" crc="458716408" seo="true" mt="1493620018570" redirect="true"/>
-  <file name="events.html" crc="474035125" seo="true" mt="1498661278706" redirect="true"/>
+  <file name="events.html" crc="442980714" seo="true" mt="1501543949407" redirect="true"/>
   <file name="resources.html" crc="3939529372" seo="true" mt="1493565519789" redirect="true"/>
   <file name="team.html" crc="4075332448" seo="true" mt="1498660559042" redirect="true"/>
   <file name="contact-us.html" crc="494833052" seo="true" mt="1493565519789" redirect="true"/>
